@@ -15,7 +15,7 @@ Experience
 23.02 ~ 23.02 | TTA 소프트웨어 테스트 전문가(CSTS) 양성교육 (수료)
 
 Awards
-25.04 | LG CNS Inspire Camp 아이디어 해커톤 1등
+25.04 | LG CNS Inspire Camp 아이디어 해커톤 - 1등 (스마트 모빌리티팀)
 23.08 | 경기대학교 학장상
 23.06 | 경기대학교 캡스톤 디자인 경진대회 금상
 
