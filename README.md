@@ -9,6 +9,9 @@
 [![KUDONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhku)](https://github.com/dhku/github-readme-stats)
 
 ```
+Education
+17.03 ~ 24.02 | 경기대학교 | 4.01 / 4.5 (137학점 이수)
+
 Experience                                                                
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
 24.03 ~ 24.10 | 경기대학교/한양대 에리카 마인크래프트 메타버스 서버 개발/운영
