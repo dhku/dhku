@@ -2,7 +2,7 @@
 
 <div align="center">
 구동혁
-</a>
+</div>
 
 ```
 Experience                                                                
