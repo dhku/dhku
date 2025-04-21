@@ -17,7 +17,7 @@ Experience
 Awards
 25.04 | LG CNS Inspire Camp 아이디어 해커톤 1등
 23.08 | 경기대학교 학장상
-23.06 | 캡스톤디자인 경진대회 금상
+23.06 | 경기대학교 캡스톤 디자인 경진대회 금상
 
 Certificate
 23.06 | 정보처리기사
