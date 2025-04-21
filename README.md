@@ -1,8 +1,10 @@
 ## KU DONG HYEOK 👋
 
+<!--
 <div align="center">
 구동혁
 </div>
+-->
 
 ```
 Experience                                                                
