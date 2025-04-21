@@ -6,6 +6,8 @@
 </div>
 -->
 
+[![KUDONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhku)](https://github.com/dhku/github-readme-stats)
+
 ```
 Experience                                                                
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
@@ -19,7 +21,7 @@ Awards
 
 Certificate
 23.06 | 정보처리기사
-23.05 | TOPCIT Level 3 (Competent)
+23.05 | TOPCIT Level 3 (Competent) 
 23.03 | CSTS (Certified Software Test Specialist) FL
  
 Contact
