@@ -1,5 +1,9 @@
 ## KU DONG HYEOK 👋
 
+<div align="center">
+구동혁
+</a>
+
 ```
 Experience                                                                
 24-12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
