@@ -10,11 +10,12 @@
 
 ```
 Experience                                                                
-24.12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (교육 중)
+24.12 ~ 25.06 | LG CNS AM Inspire Camp 1기 (수료)
 24.03 ~ 24.10 | 경기대학교/한양대 에리카 마인크래프트 메타버스 서버 개발/운영
 23.02 ~ 23.02 | TTA 소프트웨어 테스트 전문가(CSTS) 양성교육 (수료)
 
 Awards
+25.06 | LG CNS Inspire Camp 최종 프로젝트 우수상 - Kubernetes를 활용한 장애대응 관제 모니터링 시스템 구축
 25.04 | LG CNS Inspire Camp 아이디어 해커톤 - 대상 (스마트 모빌리티팀)
 23.08 | 경기대학교 학장상
 23.06 | 경기대학교 캡스톤 디자인 경진대회 금상
