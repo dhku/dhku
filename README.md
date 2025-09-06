@@ -21,6 +21,7 @@ Awards
 23.06 | 경기대학교 캡스톤 디자인 경진대회 금상
 
 Certificate
+25.09 | CCNA (Cisco Certified Network Associate)
 23.06 | 정보처리기사
 23.05 | TOPCIT Level 3 (Competent) 
 23.03 | CSTS (Certified Software Test Specialist) FL
